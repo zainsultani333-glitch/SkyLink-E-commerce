@@ -12,7 +12,7 @@ const apps = [
     downloads: "1,200,000+",
     link: "#", // Replace with actual Play Store link
     description:
-      "Infinity Bytes Android app offers a seamless shopping experience, push notifications, and secure payments. Download now and enjoy exclusive mobile deals!",
+      "SkyLink Android app offers a seamless shopping experience, push notifications, and secure payments. Download now and enjoy exclusive mobile deals!",
   },
   {
     platform: "iOS",
@@ -23,7 +23,7 @@ const apps = [
     downloads: "900,000+",
     link: "#", // Replace with actual App Store link
     description:
-      "Infinity Bytes iOS app brings you the best of our store, with fast checkout, order tracking, and personalized recommendations. Get it on your iPhone or iPad today!",
+      "SkyLink iOS app brings you the best of our store, with fast checkout, order tracking, and personalized recommendations. Get it on your iPhone or iPad today!",
   },
 ];
 
@@ -67,7 +67,7 @@ const MobileApps = () => (
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
     >
-      <h1 className="text-4xl font-bold text-newPrimary mb-8 text-center">Infinity Bytes Mobile Apps</h1>
+      <h1 className="text-4xl font-bold text-newPrimary mb-8 text-center">SkyLink Mobile Apps</h1>
     </motion.div>
 
     <motion.div
@@ -143,7 +143,7 @@ const MobileApps = () => (
       transition={{ delay: 1, duration: 0.5 }}
       className="mt-12 text-center text-gray-500 text-sm"
     >
-      &copy; {new Date().getFullYear()} Infinity Bytes. All rights reserved.
+      &copy; {new Date().getFullYear()} SkyLink. All rights reserved.
     </motion.div>
   </div>
 );

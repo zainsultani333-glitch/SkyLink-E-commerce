@@ -75,7 +75,7 @@ const About = () => {
         >
 
           <h1 className="text-2xl sm:text-4xl font-bold text-newPrimary mb-8 text-center">
-            About Infinity Bytes
+            About SkyLink
           </h1>
 
 
@@ -88,7 +88,7 @@ const About = () => {
           transition={{ delay: 0.3, duration: 0.5 }}
           className="max-w-5xl mx-auto text-[1rem] sm:text-lg text-gray-700 text-center leading-relaxed mb-8 px-4"
         >
-          Infinity Bytes is your one-stop destination for Premium Quality Products,
+          SkyLink is your one-stop destination for Premium Quality Products,
           Our diverse portfolio includes,Food Flavouring Powder, Himalayan salt products,Mining Stones,Premium Dried Rose Petals
 
           Through relentless innovation and an unwavering commitment to our consumers and customers.
@@ -96,7 +96,7 @@ const About = () => {
           We are committed to providing a seamless and enjoyable shopping experience,
           with a focus on quality, value, and customer satisfaction.
 
-          Infinity Bytes  aims to provide quality products to valued customers.
+          SkyLink aims to provide quality products to valued customers.
         </motion.p>
 
         <motion.div
@@ -130,7 +130,7 @@ const About = () => {
           transition={{ delay: 1, duration: 0.5 }}
           className="mt-12 text-center text-gray-500 text-sm"
         >
-          &copy; {new Date().getFullYear()} Infinity Bytes. All rights reserved.
+          &copy; {new Date().getFullYear()} SkyLink. All rights reserved.
         </motion.div>
       </div>
     </div>

@@ -37,7 +37,7 @@ const RefundReturn = () => {
             Refund, Return & Exchange Policy
           </h1>
           <p className="text-gray-800 mb-4 leading-relaxed">
-            At <span className="font-semibold text-newPrimary">Infinity Bytes</span>, we strive to ensure your satisfaction. This policy outlines the conditions under which refunds, returns, or exchanges may be processed for products purchased through our website.
+            At <span className="font-semibold text-newPrimary">SkyLink</span>, we strive to ensure your satisfaction. This policy outlines the conditions under which refunds, returns, or exchanges may be processed for products purchased through our website.
           </p>
 
           <h2 className="text-xl font-semibold text-gray-900 mb-2">Eligibility for Returns</h2>
@@ -61,10 +61,10 @@ const RefundReturn = () => {
           <p className="text-sm italic text-gray-600 mt-4">
             For further assistance or inquiries regarding our refund, return, or exchange policy, please contact us at{" "}
             <a
-              href="mailto:support@Infinity Bytes.com"
+              href="mailto:support@skylink.com"
               className="text-newPrimary underline"
             >
-             support@Infinity Bytes.com
+             support@skylink.com
             </a>.
           </p>
         </div>

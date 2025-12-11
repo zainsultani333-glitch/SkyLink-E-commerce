@@ -36,7 +36,7 @@ const PrivacyPolicy = () => {
             Privacy Policy
           </h1>
           <p className="text-gray-800 mb-4 leading-relaxed">
-            At <span className="font-semibold text-newPrimary">Infinity Bytes</span>,
+            At <span className="font-semibold text-newPrimary">SkyLink</span>,
             your privacy is important to us. This policy explains how we collect,
             use, and protect your personal data when you visit our website or
             purchase from us.
@@ -85,10 +85,10 @@ const PrivacyPolicy = () => {
             By using our site, you agree to this policy. For questions, contact
             us at{" "}
             <a
-              href="mailto:support@Infinity Bytes.com"
+              href="mailto:support@skylink.com"
               className="text-newPrimary underline"
             >
-             support@infinitybytes.com
+            support@skylink.com
             </a>.
           </p>
         </div>

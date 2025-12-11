@@ -35,7 +35,7 @@ const Complaints = () => {
           Complaints Handling Mechanism
         </h1>
         <p className="text-gray-700 text-lg leading-relaxed mb-6">
-          At <span className="font-semibold text-newPrimary">Infinity Bytes</span>,
+          At <span className="font-semibold text-newPrimary">SkyLink</span>,
           we value our customers and strive to ensure complete satisfaction with
           every order. In the rare event that you encounter any issue, we have a
           transparent and responsive complaints-handling process in place to
@@ -48,10 +48,10 @@ const Complaints = () => {
               <strong>Contact Channels:</strong> Customers can reach out to us
               via email at{" "}
               <a
-                href="mailto:support@Infinity Bytes.com"
+                href="mailto:support@skylink.com"
                 className="text-newPrimary font-medium underline"
               >
-              support@infinitybytes.com
+              support@skylink.com
               </a>{" "}
               or call our dedicated helpline at{" "}
               <span className="font-bold text-newPrimary">+92 3106828888</span>.
