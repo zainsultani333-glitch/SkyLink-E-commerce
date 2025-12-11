@@ -10,7 +10,7 @@ const Carousel = () => {
 
   // Image from public/images folder
   const images = [
-  // "https://cavemanorganics.pk/cdn/shop/articles/image1.png?v=1707667951",
+  "https://cavemanorganics.pk/cdn/shop/articles/image1.png?v=1707667951",
   "https://img.freepik.com/free-photo/piece-gold-table_91008-586.jpg?semt=ais_hybrid&w=740&q=80",
   "https://cavemanorganics.pk/cdn/shop/articles/image1_ea58624e-23ef-4a94-ab04-13916e4d45a0.png?v=1707668880",
   "https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/content/wi/art/6b233f78-584-c65ac76d37.jpg",
