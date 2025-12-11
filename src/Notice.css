@@ -1,0 +1,68 @@
+.notice-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 2px solid #1e3a8a;
+  border-radius: 10px;
+  background: #f9fafb;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #111827;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.notice-container h1 {
+  text-align: center;
+  color: #b91c1c;
+  font-size: large;
+  font: 3rem sans-serif;
+  margin-bottom: 20px;
+}
+
+.notice-container p {
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+.voice-note {
+  display: block;
+  margin: 15px auto;
+  width: 100%;
+  max-width: 500px;
+}
+
+.signatures {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+.signature {
+  border: 2px solid #1e3a8a;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-weight: bold;
+  background: #e0f2fe;
+  text-align: center;
+}
+
+.attached-image {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.attached-image img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #1e3a8a;
+  border-radius: 10px;
+}
+
+
+.signature-img {
+  max-height: 150px;
+  border: 2px solid #1e40af;
+  border-radius: 8px;
+  padding: 5px;
+  background: #fff;
+}
